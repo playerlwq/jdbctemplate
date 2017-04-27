@@ -1,0 +1,205 @@
+2017-04-27 10:08:56.004 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization started
+2017-04-27 10:08:56.071 [main] INFO  org.springframework.web.context.support.XmlWebApplicationContext - Refreshing Root WebApplicationContext: startup date [Thu Apr 27 10:08:56 CST 2017]; root of context hierarchy
+2017-04-27 10:08:56.106 [main] INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from file [D:\workspace\JavaProject_lwq_002\jdbctemplate\target\classes\applicationContext-jdbc.xml]
+2017-04-27 10:08:56.162 [main] INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from file [D:\workspace\JavaProject_lwq_002\jdbctemplate\target\classes\applicationContext-jedis.xml]
+2017-04-27 10:08:56.357 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 351 ms
+2017-04-27 10:08:56.409 [main] INFO  org.springframework.web.servlet.DispatcherServlet - FrameworkServlet 'Spring': initialization started
+2017-04-27 10:08:56.413 [main] INFO  org.springframework.web.context.support.XmlWebApplicationContext - Refreshing WebApplicationContext for namespace 'Spring-servlet': startup date [Thu Apr 27 10:08:56 CST 2017]; parent: Root WebApplicationContext
+2017-04-27 10:08:56.414 [main] INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [springmvc-servlet.xml]
+2017-04-27 10:08:56.554 [main] INFO  org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2017-04-27 10:08:56.695 [main] INFO  org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping - Mapped URL path [/test] onto handler 'testController'
+2017-04-27 10:08:56.695 [main] INFO  org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping - Mapped URL path [/test.*] onto handler 'testController'
+2017-04-27 10:08:56.695 [main] INFO  org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping - Mapped URL path [/test/] onto handler 'testController'
+2017-04-27 10:08:56.753 [main] INFO  org.springframework.web.servlet.handler.SimpleUrlHandlerMapping - Mapped URL path [/**] onto handler 'org.springframework.web.servlet.resource.DefaultServletHttpRequestHandler#0'
+2017-04-27 10:08:56.817 [main] INFO  org.springframework.web.servlet.DispatcherServlet - FrameworkServlet 'Spring': initialization completed in 408 ms
+2017-04-27 10:10:20.550 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization started
+2017-04-27 10:10:20.616 [main] INFO  org.springframework.web.context.support.XmlWebApplicationContext - Refreshing Root WebApplicationContext: startup date [Thu Apr 27 10:10:20 CST 2017]; root of context hierarchy
+2017-04-27 10:10:20.651 [main] INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from file [D:\workspace\JavaProject_lwq_002\jdbctemplate\target\classes\applicationContext-jdbc.xml]
+2017-04-27 10:10:20.708 [main] INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from file [D:\workspace\JavaProject_lwq_002\jdbctemplate\target\classes\applicationContext-jedis.xml]
+2017-04-27 10:10:20.899 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 347 ms
+2017-04-27 10:10:20.952 [main] INFO  org.springframework.web.servlet.DispatcherServlet - FrameworkServlet 'Spring': initialization started
+2017-04-27 10:10:20.957 [main] INFO  org.springframework.web.context.support.XmlWebApplicationContext - Refreshing WebApplicationContext for namespace 'Spring-servlet': startup date [Thu Apr 27 10:10:20 CST 2017]; parent: Root WebApplicationContext
+2017-04-27 10:10:20.958 [main] INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [springmvc-servlet.xml]
+2017-04-27 10:10:21.099 [main] INFO  org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2017-04-27 10:10:21.234 [main] INFO  org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping - Mapped URL path [/test] onto handler 'testController'
+2017-04-27 10:10:21.234 [main] INFO  org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping - Mapped URL path [/test.*] onto handler 'testController'
+2017-04-27 10:10:21.234 [main] INFO  org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping - Mapped URL path [/test/] onto handler 'testController'
+2017-04-27 10:10:21.279 [main] INFO  org.springframework.web.servlet.handler.SimpleUrlHandlerMapping - Mapped URL path [/**] onto handler 'org.springframework.web.servlet.resource.DefaultServletHttpRequestHandler#0'
+2017-04-27 10:10:21.339 [main] INFO  org.springframework.web.servlet.DispatcherServlet - FrameworkServlet 'Spring': initialization completed in 387 ms
+2017-04-27 10:12:23.849 [http-8080-1] INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [org/springframework/jdbc/support/sql-error-codes.xml]
+2017-04-27 10:12:23.879 [http-8080-1] INFO  org.springframework.jdbc.support.SQLErrorCodesFactory - SQLErrorCodes loaded: [DB2, Derby, H2, HSQL, Informix, MS-SQL, MySQL, Oracle, PostgreSQL, Sybase, Hana]
+2017-04-27 10:13:44.841 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization started
+2017-04-27 10:13:44.906 [main] INFO  org.springframework.web.context.support.XmlWebApplicationContext - Refreshing Root WebApplicationContext: startup date [Thu Apr 27 10:13:44 CST 2017]; root of context hierarchy
+2017-04-27 10:13:44.941 [main] INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from file [D:\workspace\JavaProject_lwq_002\jdbctemplate\target\classes\applicationContext-jdbc.xml]
+2017-04-27 10:13:44.997 [main] INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from file [D:\workspace\JavaProject_lwq_002\jdbctemplate\target\classes\applicationContext-jedis.xml]
+2017-04-27 10:13:45.189 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 346 ms
+2017-04-27 10:13:45.243 [main] INFO  org.springframework.web.servlet.DispatcherServlet - FrameworkServlet 'Spring': initialization started
+2017-04-27 10:13:45.247 [main] INFO  org.springframework.web.context.support.XmlWebApplicationContext - Refreshing WebApplicationContext for namespace 'Spring-servlet': startup date [Thu Apr 27 10:13:45 CST 2017]; parent: Root WebApplicationContext
+2017-04-27 10:13:45.248 [main] INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [springmvc-servlet.xml]
+2017-04-27 10:13:45.388 [main] INFO  org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2017-04-27 10:13:45.527 [main] INFO  org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping - Mapped URL path [/test] onto handler 'testController'
+2017-04-27 10:13:45.527 [main] INFO  org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping - Mapped URL path [/test.*] onto handler 'testController'
+2017-04-27 10:13:45.527 [main] INFO  org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping - Mapped URL path [/test/] onto handler 'testController'
+2017-04-27 10:13:45.577 [main] INFO  org.springframework.web.servlet.handler.SimpleUrlHandlerMapping - Mapped URL path [/**] onto handler 'org.springframework.web.servlet.resource.DefaultServletHttpRequestHandler#0'
+2017-04-27 10:13:45.638 [main] INFO  org.springframework.web.servlet.DispatcherServlet - FrameworkServlet 'Spring': initialization completed in 395 ms
+2017-04-27 10:17:35.816 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization started
+2017-04-27 10:17:35.882 [main] INFO  org.springframework.web.context.support.XmlWebApplicationContext - Refreshing Root WebApplicationContext: startup date [Thu Apr 27 10:17:35 CST 2017]; root of context hierarchy
+2017-04-27 10:17:35.917 [main] INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from file [D:\workspace\JavaProject_lwq_002\jdbctemplate\target\classes\applicationContext-jdbc.xml]
+2017-04-27 10:17:35.972 [main] INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from file [D:\workspace\JavaProject_lwq_002\jdbctemplate\target\classes\applicationContext-jedis.xml]
+2017-04-27 10:17:36.168 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 350 ms
+2017-04-27 10:17:36.220 [main] INFO  org.springframework.web.servlet.DispatcherServlet - FrameworkServlet 'Spring': initialization started
+2017-04-27 10:17:36.225 [main] INFO  org.springframework.web.context.support.XmlWebApplicationContext - Refreshing WebApplicationContext for namespace 'Spring-servlet': startup date [Thu Apr 27 10:17:36 CST 2017]; parent: Root WebApplicationContext
+2017-04-27 10:17:36.226 [main] INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [springmvc-servlet.xml]
+2017-04-27 10:17:36.368 [main] INFO  org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2017-04-27 10:17:36.506 [main] INFO  org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping - Mapped URL path [/test] onto handler 'testController'
+2017-04-27 10:17:36.506 [main] INFO  org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping - Mapped URL path [/test.*] onto handler 'testController'
+2017-04-27 10:17:36.506 [main] INFO  org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping - Mapped URL path [/test/] onto handler 'testController'
+2017-04-27 10:17:36.557 [main] INFO  org.springframework.web.servlet.handler.SimpleUrlHandlerMapping - Mapped URL path [/**] onto handler 'org.springframework.web.servlet.resource.DefaultServletHttpRequestHandler#0'
+2017-04-27 10:17:36.619 [main] INFO  org.springframework.web.servlet.DispatcherServlet - FrameworkServlet 'Spring': initialization completed in 399 ms
+2017-04-27 10:34:11.108 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization started
+2017-04-27 10:34:11.170 [main] INFO  org.springframework.web.context.support.XmlWebApplicationContext - Refreshing Root WebApplicationContext: startup date [Thu Apr 27 10:34:11 CST 2017]; root of context hierarchy
+2017-04-27 10:34:11.203 [main] INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from file [D:\workspace\JavaProject_lwq_002\jdbctemplate\target\classes\applicationContext-jdbc.xml]
+2017-04-27 10:34:11.259 [main] INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from file [D:\workspace\JavaProject_lwq_002\jdbctemplate\target\classes\applicationContext-jedis.xml]
+2017-04-27 10:34:11.444 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 334 ms
+2017-04-27 10:34:11.495 [main] INFO  org.springframework.web.servlet.DispatcherServlet - FrameworkServlet 'Spring': initialization started
+2017-04-27 10:34:11.499 [main] INFO  org.springframework.web.context.support.XmlWebApplicationContext - Refreshing WebApplicationContext for namespace 'Spring-servlet': startup date [Thu Apr 27 10:34:11 CST 2017]; parent: Root WebApplicationContext
+2017-04-27 10:34:11.500 [main] INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [springmvc-servlet.xml]
+2017-04-27 10:34:11.636 [main] INFO  org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2017-04-27 10:34:11.766 [main] INFO  org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping - Mapped URL path [/test] onto handler 'testController'
+2017-04-27 10:34:11.766 [main] INFO  org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping - Mapped URL path [/test.*] onto handler 'testController'
+2017-04-27 10:34:11.766 [main] INFO  org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping - Mapped URL path [/test/] onto handler 'testController'
+2017-04-27 10:34:11.811 [main] INFO  org.springframework.web.servlet.handler.SimpleUrlHandlerMapping - Mapped URL path [/**] onto handler 'org.springframework.web.servlet.resource.DefaultServletHttpRequestHandler#0'
+2017-04-27 10:34:11.866 [main] INFO  org.springframework.web.servlet.DispatcherServlet - FrameworkServlet 'Spring': initialization completed in 371 ms
+2017-04-27 10:41:43.387 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization started
+2017-04-27 10:41:43.454 [main] INFO  org.springframework.web.context.support.XmlWebApplicationContext - Refreshing Root WebApplicationContext: startup date [Thu Apr 27 10:41:43 CST 2017]; root of context hierarchy
+2017-04-27 10:41:43.489 [main] INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from file [D:\workspace\JavaProject_lwq_002\jdbctemplate\target\classes\applicationContext-jdbc.xml]
+2017-04-27 10:41:43.545 [main] INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from file [D:\workspace\JavaProject_lwq_002\jdbctemplate\target\classes\applicationContext-jedis.xml]
+2017-04-27 10:41:43.737 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 348 ms
+2017-04-27 10:41:43.788 [main] INFO  org.springframework.web.servlet.DispatcherServlet - FrameworkServlet 'Spring': initialization started
+2017-04-27 10:41:43.793 [main] INFO  org.springframework.web.context.support.XmlWebApplicationContext - Refreshing WebApplicationContext for namespace 'Spring-servlet': startup date [Thu Apr 27 10:41:43 CST 2017]; parent: Root WebApplicationContext
+2017-04-27 10:41:43.794 [main] INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [springmvc-servlet.xml]
+2017-04-27 10:41:43.940 [main] INFO  org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2017-04-27 10:41:44.108 [main] INFO  org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping - Mapped URL path [/test] onto handler 'testController'
+2017-04-27 10:41:44.108 [main] INFO  org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping - Mapped URL path [/test.*] onto handler 'testController'
+2017-04-27 10:41:44.109 [main] INFO  org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping - Mapped URL path [/test/] onto handler 'testController'
+2017-04-27 10:41:44.164 [main] INFO  org.springframework.web.servlet.handler.SimpleUrlHandlerMapping - Mapped URL path [/**] onto handler 'org.springframework.web.servlet.resource.DefaultServletHttpRequestHandler#0'
+2017-04-27 10:41:44.228 [main] INFO  org.springframework.web.servlet.DispatcherServlet - FrameworkServlet 'Spring': initialization completed in 440 ms
+2017-04-27 10:47:27.132 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization started
+2017-04-27 10:47:27.199 [main] INFO  org.springframework.web.context.support.XmlWebApplicationContext - Refreshing Root WebApplicationContext: startup date [Thu Apr 27 10:47:27 CST 2017]; root of context hierarchy
+2017-04-27 10:47:27.234 [main] INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from file [D:\workspace\JavaProject_lwq_002\jdbctemplate\target\classes\applicationContext-jdbc.xml]
+2017-04-27 10:47:27.291 [main] INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from file [D:\workspace\JavaProject_lwq_002\jdbctemplate\target\classes\applicationContext-jedis.xml]
+2017-04-27 10:47:27.488 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 354 ms
+2017-04-27 10:47:27.539 [main] INFO  org.springframework.web.servlet.DispatcherServlet - FrameworkServlet 'Spring': initialization started
+2017-04-27 10:47:27.543 [main] INFO  org.springframework.web.context.support.XmlWebApplicationContext - Refreshing WebApplicationContext for namespace 'Spring-servlet': startup date [Thu Apr 27 10:47:27 CST 2017]; parent: Root WebApplicationContext
+2017-04-27 10:47:27.544 [main] INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [springmvc-servlet.xml]
+2017-04-27 10:47:27.738 [main] INFO  org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2017-04-27 10:47:27.864 [main] INFO  org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - Mapped "{[/test],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.util.Map<java.lang.String, java.lang.Object> com.lwq.contorller.TestController.test(java.lang.String)
+2017-04-27 10:47:28.178 [main] INFO  org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter - Looking for @ControllerAdvice: WebApplicationContext for namespace 'Spring-servlet': startup date [Thu Apr 27 10:47:27 CST 2017]; parent: Root WebApplicationContext
+2017-04-27 10:47:28.231 [main] INFO  org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter - Looking for @ControllerAdvice: WebApplicationContext for namespace 'Spring-servlet': startup date [Thu Apr 27 10:47:27 CST 2017]; parent: Root WebApplicationContext
+2017-04-27 10:47:28.345 [main] INFO  org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping - Mapped URL path [/test] onto handler 'testController'
+2017-04-27 10:47:28.345 [main] INFO  org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping - Mapped URL path [/test.*] onto handler 'testController'
+2017-04-27 10:47:28.345 [main] INFO  org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping - Mapped URL path [/test/] onto handler 'testController'
+2017-04-27 10:47:28.391 [main] INFO  org.springframework.web.servlet.handler.SimpleUrlHandlerMapping - Mapped URL path [/**] onto handler 'org.springframework.web.servlet.resource.DefaultServletHttpRequestHandler#0'
+2017-04-27 10:47:28.415 [main] INFO  org.springframework.web.servlet.DispatcherServlet - FrameworkServlet 'Spring': initialization completed in 876 ms
+2017-04-27 10:47:37.678 [http-8080-2] INFO  net.sf.json.JSONObject - Property 'timezoneOffset' of class java.util.Date has no write method. SKIPPED.
+2017-04-27 10:47:37.678 [http-8080-2] INFO  net.sf.json.JSONObject - Property 'day' of class java.util.Date has no write method. SKIPPED.
+2017-04-27 10:47:37.679 [http-8080-2] INFO  net.sf.json.JSONObject - Property 'timezoneOffset' of class java.util.Date has no write method. SKIPPED.
+2017-04-27 10:47:37.679 [http-8080-2] INFO  net.sf.json.JSONObject - Property 'day' of class java.util.Date has no write method. SKIPPED.
+2017-04-27 10:47:37.680 [http-8080-2] INFO  net.sf.json.JSONObject - Property 'timezoneOffset' of class java.util.Date has no write method. SKIPPED.
+2017-04-27 10:47:37.680 [http-8080-2] INFO  net.sf.json.JSONObject - Property 'day' of class java.util.Date has no write method. SKIPPED.
+2017-04-27 10:47:37.681 [http-8080-2] INFO  net.sf.json.JSONObject - Property 'timezoneOffset' of class java.util.Date has no write method. SKIPPED.
+2017-04-27 10:47:37.681 [http-8080-2] INFO  net.sf.json.JSONObject - Property 'day' of class java.util.Date has no write method. SKIPPED.
+2017-04-27 10:48:27.077 [http-8080-2] INFO  net.sf.json.JSONObject - Property 'timezoneOffset' of class java.util.Date has no write method. SKIPPED.
+2017-04-27 10:48:27.077 [http-8080-2] INFO  net.sf.json.JSONObject - Property 'day' of class java.util.Date has no write method. SKIPPED.
+2017-04-27 10:48:27.078 [http-8080-2] INFO  net.sf.json.JSONObject - Property 'timezoneOffset' of class java.util.Date has no write method. SKIPPED.
+2017-04-27 10:48:27.078 [http-8080-2] INFO  net.sf.json.JSONObject - Property 'day' of class java.util.Date has no write method. SKIPPED.
+2017-04-27 10:48:27.079 [http-8080-2] INFO  net.sf.json.JSONObject - Property 'timezoneOffset' of class java.util.Date has no write method. SKIPPED.
+2017-04-27 10:48:27.079 [http-8080-2] INFO  net.sf.json.JSONObject - Property 'day' of class java.util.Date has no write method. SKIPPED.
+2017-04-27 10:48:27.079 [http-8080-2] INFO  net.sf.json.JSONObject - Property 'timezoneOffset' of class java.util.Date has no write method. SKIPPED.
+2017-04-27 10:48:27.079 [http-8080-2] INFO  net.sf.json.JSONObject - Property 'day' of class java.util.Date has no write method. SKIPPED.
+2017-04-27 10:48:43.799 [http-8080-2] INFO  net.sf.json.JSONObject - Property 'timezoneOffset' of class java.util.Date has no write method. SKIPPED.
+2017-04-27 10:48:43.800 [http-8080-2] INFO  net.sf.json.JSONObject - Property 'day' of class java.util.Date has no write method. SKIPPED.
+2017-04-27 10:48:43.800 [http-8080-2] INFO  net.sf.json.JSONObject - Property 'timezoneOffset' of class java.util.Date has no write method. SKIPPED.
+2017-04-27 10:48:43.801 [http-8080-2] INFO  net.sf.json.JSONObject - Property 'day' of class java.util.Date has no write method. SKIPPED.
+2017-04-27 10:48:43.801 [http-8080-2] INFO  net.sf.json.JSONObject - Property 'timezoneOffset' of class java.util.Date has no write method. SKIPPED.
+2017-04-27 10:48:43.801 [http-8080-2] INFO  net.sf.json.JSONObject - Property 'day' of class java.util.Date has no write method. SKIPPED.
+2017-04-27 10:48:43.802 [http-8080-2] INFO  net.sf.json.JSONObject - Property 'timezoneOffset' of class java.util.Date has no write method. SKIPPED.
+2017-04-27 10:48:43.802 [http-8080-2] INFO  net.sf.json.JSONObject - Property 'day' of class java.util.Date has no write method. SKIPPED.
+2017-04-27 10:49:49.590 [http-8080-1] INFO  net.sf.json.JSONObject - Property 'timezoneOffset' of class java.util.Date has no write method. SKIPPED.
+2017-04-27 10:49:49.590 [http-8080-1] INFO  net.sf.json.JSONObject - Property 'day' of class java.util.Date has no write method. SKIPPED.
+2017-04-27 10:49:49.590 [http-8080-1] INFO  net.sf.json.JSONObject - Property 'timezoneOffset' of class java.util.Date has no write method. SKIPPED.
+2017-04-27 10:49:49.590 [http-8080-1] INFO  net.sf.json.JSONObject - Property 'day' of class java.util.Date has no write method. SKIPPED.
+2017-04-27 10:49:49.591 [http-8080-1] INFO  net.sf.json.JSONObject - Property 'timezoneOffset' of class java.util.Date has no write method. SKIPPED.
+2017-04-27 10:49:49.591 [http-8080-1] INFO  net.sf.json.JSONObject - Property 'day' of class java.util.Date has no write method. SKIPPED.
+2017-04-27 10:49:49.593 [http-8080-1] INFO  net.sf.json.JSONObject - Property 'timezoneOffset' of class java.util.Date has no write method. SKIPPED.
+2017-04-27 10:49:49.593 [http-8080-1] INFO  net.sf.json.JSONObject - Property 'day' of class java.util.Date has no write method. SKIPPED.
+2017-04-27 13:03:52.845 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization started
+2017-04-27 13:03:52.921 [main] INFO  org.springframework.web.context.support.XmlWebApplicationContext - Refreshing Root WebApplicationContext: startup date [Thu Apr 27 13:03:52 CST 2017]; root of context hierarchy
+2017-04-27 13:03:52.957 [main] INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from file [D:\workspace\JavaProject_lwq_002\jdbctemplate\target\classes\applicationContext-jdbc.xml]
+2017-04-27 13:03:53.014 [main] INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from file [D:\workspace\JavaProject_lwq_002\jdbctemplate\target\classes\applicationContext-jedis.xml]
+2017-04-27 13:03:53.212 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 365 ms
+2017-04-27 13:03:53.263 [main] INFO  org.springframework.web.servlet.DispatcherServlet - FrameworkServlet 'Spring': initialization started
+2017-04-27 13:03:53.268 [main] INFO  org.springframework.web.context.support.XmlWebApplicationContext - Refreshing WebApplicationContext for namespace 'Spring-servlet': startup date [Thu Apr 27 13:03:53 CST 2017]; parent: Root WebApplicationContext
+2017-04-27 13:03:53.269 [main] INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [springmvc-servlet.xml]
+2017-04-27 13:03:53.462 [main] INFO  org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2017-04-27 13:03:53.594 [main] INFO  org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - Mapped "{[/test],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.util.Map<java.lang.String, java.lang.Object> com.lwq.contorller.TestController.test(java.lang.String)
+2017-04-27 13:03:53.884 [main] INFO  org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter - Looking for @ControllerAdvice: WebApplicationContext for namespace 'Spring-servlet': startup date [Thu Apr 27 13:03:53 CST 2017]; parent: Root WebApplicationContext
+2017-04-27 13:03:53.938 [main] INFO  org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter - Looking for @ControllerAdvice: WebApplicationContext for namespace 'Spring-servlet': startup date [Thu Apr 27 13:03:53 CST 2017]; parent: Root WebApplicationContext
+2017-04-27 13:03:54.051 [main] INFO  org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping - Mapped URL path [/test] onto handler 'testController'
+2017-04-27 13:03:54.051 [main] INFO  org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping - Mapped URL path [/test.*] onto handler 'testController'
+2017-04-27 13:03:54.051 [main] INFO  org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping - Mapped URL path [/test/] onto handler 'testController'
+2017-04-27 13:03:54.097 [main] INFO  org.springframework.web.servlet.handler.SimpleUrlHandlerMapping - Mapped URL path [/**] onto handler 'org.springframework.web.servlet.resource.DefaultServletHttpRequestHandler#0'
+2017-04-27 13:03:54.118 [main] INFO  org.springframework.web.servlet.DispatcherServlet - FrameworkServlet 'Spring': initialization completed in 855 ms
+2017-04-27 13:05:54.023 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization started
+2017-04-27 13:05:54.090 [main] INFO  org.springframework.web.context.support.XmlWebApplicationContext - Refreshing Root WebApplicationContext: startup date [Thu Apr 27 13:05:54 CST 2017]; root of context hierarchy
+2017-04-27 13:05:54.127 [main] INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from file [D:\workspace\JavaProject_lwq_002\jdbctemplate\target\classes\applicationContext-jdbc.xml]
+2017-04-27 13:05:54.183 [main] INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from file [D:\workspace\JavaProject_lwq_002\jdbctemplate\target\classes\applicationContext-jedis.xml]
+2017-04-27 13:05:54.378 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 352 ms
+2017-04-27 13:05:54.428 [main] INFO  org.springframework.web.servlet.DispatcherServlet - FrameworkServlet 'Spring': initialization started
+2017-04-27 13:05:54.433 [main] INFO  org.springframework.web.context.support.XmlWebApplicationContext - Refreshing WebApplicationContext for namespace 'Spring-servlet': startup date [Thu Apr 27 13:05:54 CST 2017]; parent: Root WebApplicationContext
+2017-04-27 13:05:54.435 [main] INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [springmvc-servlet.xml]
+2017-04-27 13:05:54.624 [main] INFO  org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2017-04-27 13:05:54.745 [main] INFO  org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - Mapped "{[/test],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.util.Map<java.lang.String, java.lang.Object> com.lwq.contorller.TestController.test(java.lang.String)
+2017-04-27 13:05:55.039 [main] INFO  org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter - Looking for @ControllerAdvice: WebApplicationContext for namespace 'Spring-servlet': startup date [Thu Apr 27 13:05:54 CST 2017]; parent: Root WebApplicationContext
+2017-04-27 13:05:55.095 [main] INFO  org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter - Looking for @ControllerAdvice: WebApplicationContext for namespace 'Spring-servlet': startup date [Thu Apr 27 13:05:54 CST 2017]; parent: Root WebApplicationContext
+2017-04-27 13:05:55.235 [main] INFO  org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping - Mapped URL path [/test] onto handler 'testController'
+2017-04-27 13:05:55.235 [main] INFO  org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping - Mapped URL path [/test.*] onto handler 'testController'
+2017-04-27 13:05:55.235 [main] INFO  org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping - Mapped URL path [/test/] onto handler 'testController'
+2017-04-27 13:05:55.471 [main] INFO  org.springframework.web.servlet.handler.SimpleUrlHandlerMapping - Mapped URL path [/**] onto handler 'org.springframework.web.servlet.resource.DefaultServletHttpRequestHandler#0'
+2017-04-27 13:05:55.767 [main] INFO  org.springframework.web.servlet.DispatcherServlet - FrameworkServlet 'Spring': initialization completed in 1338 ms
+2017-04-27 13:08:39.821 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization started
+2017-04-27 13:08:39.884 [main] INFO  org.springframework.web.context.support.XmlWebApplicationContext - Refreshing Root WebApplicationContext: startup date [Thu Apr 27 13:08:39 CST 2017]; root of context hierarchy
+2017-04-27 13:08:39.918 [main] INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from file [D:\workspace\JavaProject_lwq_002\jdbctemplate\target\classes\applicationContext-jdbc.xml]
+2017-04-27 13:08:39.974 [main] INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from file [D:\workspace\JavaProject_lwq_002\jdbctemplate\target\classes\applicationContext-jedis.xml]
+2017-04-27 13:08:40.157 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 334 ms
+2017-04-27 13:08:40.205 [main] INFO  org.springframework.web.servlet.DispatcherServlet - FrameworkServlet 'Spring': initialization started
+2017-04-27 13:08:40.209 [main] INFO  org.springframework.web.context.support.XmlWebApplicationContext - Refreshing WebApplicationContext for namespace 'Spring-servlet': startup date [Thu Apr 27 13:08:40 CST 2017]; parent: Root WebApplicationContext
+2017-04-27 13:08:40.210 [main] INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [springmvc-servlet.xml]
+2017-04-27 13:08:40.401 [main] INFO  org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2017-04-27 13:08:40.524 [main] INFO  org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - Mapped "{[/test],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.util.Map<java.lang.String, java.lang.Object> com.lwq.contorller.TestController.test(java.lang.String)
+2017-04-27 13:08:40.822 [main] INFO  org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter - Looking for @ControllerAdvice: WebApplicationContext for namespace 'Spring-servlet': startup date [Thu Apr 27 13:08:40 CST 2017]; parent: Root WebApplicationContext
+2017-04-27 13:08:40.885 [main] INFO  org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter - Looking for @ControllerAdvice: WebApplicationContext for namespace 'Spring-servlet': startup date [Thu Apr 27 13:08:40 CST 2017]; parent: Root WebApplicationContext
+2017-04-27 13:08:41.005 [main] INFO  org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping - Mapped URL path [/test] onto handler 'testController'
+2017-04-27 13:08:41.005 [main] INFO  org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping - Mapped URL path [/test.*] onto handler 'testController'
+2017-04-27 13:08:41.005 [main] INFO  org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping - Mapped URL path [/test/] onto handler 'testController'
+2017-04-27 13:08:41.048 [main] INFO  org.springframework.web.servlet.handler.SimpleUrlHandlerMapping - Mapped URL path [/**] onto handler 'org.springframework.web.servlet.resource.DefaultServletHttpRequestHandler#0'
+2017-04-27 13:08:41.072 [main] INFO  org.springframework.web.servlet.DispatcherServlet - FrameworkServlet 'Spring': initialization completed in 867 ms
+2017-04-27 13:08:50.936 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization started
+2017-04-27 13:08:51.002 [main] INFO  org.springframework.web.context.support.XmlWebApplicationContext - Refreshing Root WebApplicationContext: startup date [Thu Apr 27 13:08:51 CST 2017]; root of context hierarchy
+2017-04-27 13:08:51.038 [main] INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from file [D:\workspace\JavaProject_lwq_002\jdbctemplate\target\classes\applicationContext-jdbc.xml]
+2017-04-27 13:08:51.099 [main] INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from file [D:\workspace\JavaProject_lwq_002\jdbctemplate\target\classes\applicationContext-jedis.xml]
+2017-04-27 13:08:51.301 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 362 ms
+2017-04-27 13:08:51.353 [main] INFO  org.springframework.web.servlet.DispatcherServlet - FrameworkServlet 'Spring': initialization started
+2017-04-27 13:08:51.358 [main] INFO  org.springframework.web.context.support.XmlWebApplicationContext - Refreshing WebApplicationContext for namespace 'Spring-servlet': startup date [Thu Apr 27 13:08:51 CST 2017]; parent: Root WebApplicationContext
+2017-04-27 13:08:51.359 [main] INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [springmvc-servlet.xml]
+2017-04-27 13:08:51.543 [main] INFO  org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2017-04-27 13:08:51.670 [main] INFO  org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - Mapped "{[/test],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.util.Map<java.lang.String, java.lang.Object> com.lwq.contorller.TestController.test(java.lang.String)
+2017-04-27 13:08:51.969 [main] INFO  org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter - Looking for @ControllerAdvice: WebApplicationContext for namespace 'Spring-servlet': startup date [Thu Apr 27 13:08:51 CST 2017]; parent: Root WebApplicationContext
+2017-04-27 13:08:52.030 [main] INFO  org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter - Looking for @ControllerAdvice: WebApplicationContext for namespace 'Spring-servlet': startup date [Thu Apr 27 13:08:51 CST 2017]; parent: Root WebApplicationContext
+2017-04-27 13:08:52.174 [main] INFO  org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping - Mapped URL path [/test] onto handler 'testController'
+2017-04-27 13:08:52.174 [main] INFO  org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping - Mapped URL path [/test.*] onto handler 'testController'
+2017-04-27 13:08:52.174 [main] INFO  org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping - Mapped URL path [/test/] onto handler 'testController'
+2017-04-27 13:08:52.221 [main] INFO  org.springframework.web.servlet.handler.SimpleUrlHandlerMapping - Mapped URL path [/**] onto handler 'org.springframework.web.servlet.resource.DefaultServletHttpRequestHandler#0'
+2017-04-27 13:08:52.244 [main] INFO  org.springframework.web.servlet.DispatcherServlet - FrameworkServlet 'Spring': initialization completed in 891 ms
+2017-04-27 13:10:42.687 [http-8080-1] INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [org/springframework/jdbc/support/sql-error-codes.xml]
+2017-04-27 13:10:42.717 [http-8080-1] INFO  org.springframework.jdbc.support.SQLErrorCodesFactory - SQLErrorCodes loaded: [DB2, Derby, H2, HSQL, Informix, MS-SQL, MySQL, Oracle, PostgreSQL, Sybase, Hana]

@@ -1,0 +1,39 @@
+2017-04-26 16:39:05.221 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization started
+2017-04-26 16:39:05.289 [main] INFO  org.springframework.web.context.support.XmlWebApplicationContext - Refreshing Root WebApplicationContext: startup date [Wed Apr 26 16:39:05 CST 2017]; root of context hierarchy
+2017-04-26 16:39:05.326 [main] INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from file [D:\workspace\JavaProject_lwq_002\jdbctemplate\target\classes\applicationContext-jdbc.xml]
+2017-04-26 16:39:05.386 [main] INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from file [D:\workspace\JavaProject_lwq_002\jdbctemplate\target\classes\applicationContext-jedis.xml]
+2017-04-26 16:39:05.591 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 367 ms
+2017-04-26 16:39:49.596 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization started
+2017-04-26 16:39:49.667 [main] INFO  org.springframework.web.context.support.XmlWebApplicationContext - Refreshing Root WebApplicationContext: startup date [Wed Apr 26 16:39:49 CST 2017]; root of context hierarchy
+2017-04-26 16:39:49.704 [main] INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from file [D:\workspace\JavaProject_lwq_002\jdbctemplate\target\classes\applicationContext-jdbc.xml]
+2017-04-26 16:39:49.762 [main] INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from file [D:\workspace\JavaProject_lwq_002\jdbctemplate\target\classes\applicationContext-jedis.xml]
+2017-04-26 16:39:49.966 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 368 ms
+2017-04-26 16:40:29.841 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization started
+2017-04-26 16:40:29.910 [main] INFO  org.springframework.web.context.support.XmlWebApplicationContext - Refreshing Root WebApplicationContext: startup date [Wed Apr 26 16:40:29 CST 2017]; root of context hierarchy
+2017-04-26 16:40:29.947 [main] INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from file [D:\workspace\JavaProject_lwq_002\jdbctemplate\target\classes\applicationContext-jdbc.xml]
+2017-04-26 16:40:30.006 [main] INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from file [D:\workspace\JavaProject_lwq_002\jdbctemplate\target\classes\applicationContext-jedis.xml]
+2017-04-26 16:40:30.201 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 358 ms
+2017-04-26 16:42:21.126 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization started
+2017-04-26 16:42:21.196 [main] INFO  org.springframework.web.context.support.XmlWebApplicationContext - Refreshing Root WebApplicationContext: startup date [Wed Apr 26 16:42:21 CST 2017]; root of context hierarchy
+2017-04-26 16:42:21.232 [main] INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from file [D:\workspace\JavaProject_lwq_002\jdbctemplate\target\classes\applicationContext-jdbc.xml]
+2017-04-26 16:42:21.291 [main] INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from file [D:\workspace\JavaProject_lwq_002\jdbctemplate\target\classes\applicationContext-jedis.xml]
+2017-04-26 16:42:21.485 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 357 ms
+2017-04-26 16:43:16.658 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization started
+2017-04-26 16:43:16.718 [main] INFO  org.springframework.web.context.support.XmlWebApplicationContext - Refreshing Root WebApplicationContext: startup date [Wed Apr 26 16:43:16 CST 2017]; root of context hierarchy
+2017-04-26 16:43:16.750 [main] INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from file [D:\workspace\JavaProject_lwq_002\jdbctemplate\target\classes\applicationContext-jdbc.xml]
+2017-04-26 16:43:16.804 [main] INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from file [D:\workspace\JavaProject_lwq_002\jdbctemplate\target\classes\applicationContext-jedis.xml]
+2017-04-26 16:43:16.995 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 335 ms
+2017-04-26 16:45:55.666 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization started
+2017-04-26 16:45:55.733 [main] INFO  org.springframework.web.context.support.XmlWebApplicationContext - Refreshing Root WebApplicationContext: startup date [Wed Apr 26 16:45:55 CST 2017]; root of context hierarchy
+2017-04-26 16:45:55.767 [main] INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from file [D:\workspace\JavaProject_lwq_002\jdbctemplate\target\classes\applicationContext-jdbc.xml]
+2017-04-26 16:45:55.825 [main] INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from file [D:\workspace\JavaProject_lwq_002\jdbctemplate\target\classes\applicationContext-jedis.xml]
+2017-04-26 16:45:56.024 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 356 ms
+2017-04-26 16:45:56.074 [main] INFO  org.springframework.web.servlet.DispatcherServlet - FrameworkServlet 'Spring': initialization started
+2017-04-26 16:45:56.079 [main] INFO  org.springframework.web.context.support.XmlWebApplicationContext - Refreshing WebApplicationContext for namespace 'Spring-servlet': startup date [Wed Apr 26 16:45:56 CST 2017]; parent: Root WebApplicationContext
+2017-04-26 16:45:56.080 [main] INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [springmvc-servlet.xml]
+2017-04-26 16:45:56.214 [main] INFO  org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2017-04-26 16:45:56.340 [main] INFO  org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping - Mapped URL path [/test] onto handler 'testController'
+2017-04-26 16:45:56.340 [main] INFO  org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping - Mapped URL path [/test.*] onto handler 'testController'
+2017-04-26 16:45:56.340 [main] INFO  org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping - Mapped URL path [/test/] onto handler 'testController'
+2017-04-26 16:45:56.391 [main] INFO  org.springframework.web.servlet.handler.SimpleUrlHandlerMapping - Mapped URL path [/**] onto handler 'org.springframework.web.servlet.resource.DefaultServletHttpRequestHandler#0'
+2017-04-26 16:45:56.455 [main] INFO  org.springframework.web.servlet.DispatcherServlet - FrameworkServlet 'Spring': initialization completed in 380 ms
